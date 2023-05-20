@@ -1,3 +1,9 @@
-### sidebar with more features
+# [Live Demo](https://react-modal-sidebar-wheat.vercel.app/team)
 
-- Live view: https://sidebarexamplee.netlify.app
+# react-modal-sidebar
+
+## This website is specifically designed and developed for the purpose of practice and skill enhancement.
+
+## Technologies use:
+- REACT JS
+- CSS
