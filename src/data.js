@@ -47,27 +47,27 @@ export const links = [
 export const social = [
   {
     id: 1,
-    url: "https://www.linkedin.com/in/sayed-hany-b30946192/",
+    url: "#",
     icon: <FaFacebook />,
   },
   {
     id: 2,
-    url: "https://www.linkedin.com/in/sayed-hany-b30946192/",
+    url: "#",
     icon: <FaTwitter />,
   },
   {
     id: 3,
-    url: "https://www.linkedin.com/in/sayed-hany-b30946192/",
+    url: "#",
     icon: <FaLinkedin />,
   },
   {
     id: 4,
-    url: "https://www.linkedin.com/in/sayed-hany-b30946192/",
+    url: "#",
     icon: <FaBehance />,
   },
   {
     id: 5,
-    url: "https://www.linkedin.com/in/sayed-hany-b30946192/",
+    url: "#",
     icon: <FaSketch />,
   },
 ];
